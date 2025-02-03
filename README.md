@@ -1,7 +1,7 @@
 Sorteio de Amigo Secreto
 
-DescriçãoEste:
-é um projeto simples de sorteio de amigo secreto desenvolvido com HTML, CSS e JavaScript. O sistema permite que os usuários adicionem nomes de participantes e realizem o sorteio aleatoriamente.
+Descrição:
+Este é um projeto simples de sorteio de amigo secreto desenvolvido com HTML, CSS e JavaScript. O sistema permite que os usuários adicionem nomes de participantes e realizem o sorteio aleatoriamente.
 
 Funcionalidades:
 Adicionar participantes ao sorteio 
